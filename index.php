@@ -1,1 +1,3 @@
- cx 
+<?php 
+
+phpinfo()
